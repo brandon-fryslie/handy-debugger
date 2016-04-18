@@ -1,0 +1,21 @@
+{
+  "name": "handy-debugger",
+  "version": "0.1.0",
+  "description": "easily debug your Nodejs app in the Chromium Devtools",
+  "main": "index.js",
+  "bin": {
+    "handy-debugger": "cli.js"
+  },
+  "keywords": [
+    "electron",
+    "nodejs",
+    "debugger",
+    "headless"
+  ],
+  "author": "Brandon Fryslie",
+  "license": "BSD-2-Clause",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/brandon-fryslie/handy-debugger.git"
+  }
+}
